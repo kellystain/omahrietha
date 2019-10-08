@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeeceizoh.starryfei.top/sitemap.xml
